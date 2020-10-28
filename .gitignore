@@ -1,0 +1,20 @@
+node_modules/
+**/dist/
+**/platforms/
+
+### macOS
+.DS_Store
+
+.vscode/*
+*/.gradle
+
+# IntelliJ project files
+.idea
+*.iml
+
+# media
+*.mp4
+*.apk
+
+package-lock.json
+
